@@ -4,7 +4,7 @@ Projects were developed as a team back in 2020/2021 using Python, OpenCV and Num
 
 Each project has:
 * The source materials in the Materials folder (images and instructions)
-* The Python code developed in the Code folder (.m scripts)
+* The Python code developed in the Code folder (.py scripts)
 
 * A report of all 3 projects in the parent folder
 
